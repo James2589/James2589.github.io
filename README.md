@@ -1,6 +1,6 @@
 # ePortfolio
 
-##Self Assesment
+## Self Assesment
 
 I began the computer science program at SNHU in August of 2021, I had no experience with programming prior to this. I found this program to be very challenging at times but also very rewarding offering me the opportunities to improve and develop many new skills
         such as attention-to-detail, research, and problem solving. My first course in the program was Introduction to Scripting using Python, this was extremely challenging as I was learning many new concepts specifically decision brancing and while loops, in the course I was tasked
