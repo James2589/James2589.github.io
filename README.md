@@ -20,7 +20,7 @@ was also created using C++ it was converted into a WinForms application with the
 
 ## Algorithm and Data Structures
 
-
+[Artifact Narrative](SalvareGrazioso/SalvareGraziosoNarrative) $~~~$ [Enhanced Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/SalvareGrazioso)
 
 The original artifact was a Python Dash application using a MongoDB database that stored animal shelter data to search for search and rescue candidates. During the enhancement I used numerous ArrayLists to store the returned data from the database and user input data to add to 
 the database, I also used JavaFX's observable ArrayLists to then display the information.
