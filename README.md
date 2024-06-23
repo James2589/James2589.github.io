@@ -13,7 +13,7 @@ with creating a basic text based adventure game. I spent hours trying to underst
 ## Software Design & Engineering
 
 <img src="Misc/SoftwareDesignImg.jpg" height="250" width="300"><br/>
-|  [Artifact Narrative](AirGead/AirGeadNarrative)  |  [Enhanced Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/AirGead)  |  [Original Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/OriginalAirGead)
+|  [Artifact Narrative](https://github.com/James2589/James2589.github.io/blob/main/AirGead/AirGeadNarrative)  |  [Enhanced Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/AirGead)  |  [Original Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/OriginalAirGead)
 
 The original artifact was a basic console application built using C++ to calculate the growth of a savings account. The app includes functions to manipulate and access the properties necessary to complete the calculations. While the enhanced version of the application
 was also created using C++ it was converted into a WinForms application with the addition of a user interface opposed to the original console based application.
