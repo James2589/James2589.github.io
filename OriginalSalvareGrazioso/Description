@@ -1,0 +1,2 @@
+This is the original Grazioso Salvare application built in Python using the Dash framework and MongoDB. This application was originally built using Jupyter Notebook, and the database was supplied to me.
+The application was a basic dashboard application that stored local animal shelter data allowing a user to filter and check for potential search and rescue animal candidates.
