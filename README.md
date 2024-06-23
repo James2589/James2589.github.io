@@ -12,7 +12,7 @@ with creating a basic text based adventure game. I spent hours trying to underst
 
 ## Software Design & Engineering
 
-
+[Artifact Narrative](AirGead/AirGeadNarrative.md)
 
 The original artifact was a basic console application built using C++ to calculate the growth of a savings account. The app includes functions to manipulate and access the properties necessary to complete the calculations. While the enhanced version of the application
 was also created using C++ it was converted into a WinForms application with the addition of a user interface opposed to the original console based application.
