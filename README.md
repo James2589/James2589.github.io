@@ -12,7 +12,7 @@ with creating a basic text based adventure game. I spent hours trying to underst
 
 ## Software Design & Engineering
 
-![Software Design Img](Misc/SoftwareDesign)
+<img src="Misc/SoftwareDesignImg.jpg" height="250" width="300">
 |  [Artifact Narrative](AirGead/AirGeadNarrative)  |  [Enhanced Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/AirGead)  |  [Original Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/OriginalAirGead)
 
 The original artifact was a basic console application built using C++ to calculate the growth of a savings account. The app includes functions to manipulate and access the properties necessary to complete the calculations. While the enhanced version of the application
@@ -21,6 +21,7 @@ was also created using C++ it was converted into a WinForms application with the
 
 ## Algorithm and Data Structures
 
+<img src="Misc/AlgorithmsImg.jpg" height="250" width="300">
 |  [Artifact Narrative](SalvareGrazioso/SalvareGraziosoNarrative)  |  [Enhanced Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/SalvareGrazioso)  |  [Original Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/OriginalSalvareGrazioso)
 
 The original artifact was a Python Dash application using a MongoDB database that stored animal shelter data to search for search and rescue candidates. During the enhancement I used numerous ArrayLists to store the returned data from the database and user input data to add to 
@@ -29,6 +30,7 @@ the database, I also used JavaFX's observable ArrayLists to then display the inf
 
 ## Databases
 
+<img src="Misc/DatabasesImg.jpg" height="250" width="300">
 |  [Artifact Narrative](SalvareGrazioso/SalvareGraziosoNarrative)  |  [Enhanced Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/SalvareGrazioso)  |  [Original Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/OriginalSalvareGrazioso)
 
 I used the same artifact from Algorithms and Data Structures for this category because in the original artifact I was supplied with a database, but no longer had access to this database. This gave me an opportunity in the enhancement to create my own database using MongoDB
