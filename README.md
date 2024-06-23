@@ -12,7 +12,7 @@ with creating a basic text based adventure game. I spent hours trying to underst
 
 ## Software Design & Engineering
 
-![image](Misc/SoftwareDesignImg)
+![Software Design Img](Misc/SoftwareDesign)
 |  [Artifact Narrative](AirGead/AirGeadNarrative)  |  [Enhanced Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/AirGead)  |  [Original Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/OriginalAirGead)
 
 The original artifact was a basic console application built using C++ to calculate the growth of a savings account. The app includes functions to manipulate and access the properties necessary to complete the calculations. While the enhanced version of the application
