@@ -20,7 +20,7 @@ was also created using C++ it was converted into a WinForms application with the
 
 ## Algorithm and Data Structures
 
-[Artifact Narrative](SalvareGrazioso/SalvareGraziosoNarrative) $~~~$ [Enhanced Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/SalvareGrazioso)
+[Artifact Narrative](SalvareGrazioso/SalvareGraziosoNarrative) $~~~$ [Enhanced Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/SalvareGrazioso) $~~~$ [Original Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/OriginalSalvareGrazioso)
 
 The original artifact was a Python Dash application using a MongoDB database that stored animal shelter data to search for search and rescue candidates. During the enhancement I used numerous ArrayLists to store the returned data from the database and user input data to add to 
 the database, I also used JavaFX's observable ArrayLists to then display the information.
@@ -28,7 +28,7 @@ the database, I also used JavaFX's observable ArrayLists to then display the inf
 
 ## Databases
 
-
+[Artifact Narrative](SalvareGrazioso/SalvareGraziosoNarrative) $~~~$ [Enhanced Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/SalvareGrazioso) $~~~$ [Original Artifact Repository](https://github.com/James2589/James2589.github.io/tree/main/OriginalSalvareGrazioso)
 
 I used the same artifact from Algorithms and Data Structures for this category because in the original artifact I was supplied with a database, but no longer had access to this database. This gave me an opportunity in the enhancement to create my own database using MongoDB
 and to use MongoDB Compass as a method to easily test and manage my database. The use of this tool offered me the opportunity to see results in real time and became a great learning tool. 
