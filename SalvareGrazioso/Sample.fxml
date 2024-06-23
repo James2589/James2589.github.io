@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane minHeight="450.0" minWidth="450.0" prefHeight="450.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+   <children>
+      <TextField fx:id="name" layoutX="138.0" layoutY="44.0" promptText="Name">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="breed" layoutX="138.0" layoutY="77.0" promptText="Breed">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="outcomeType" layoutX="138.0" layoutY="110.0" promptText="Outcome Type">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="age" layoutX="138.0" layoutY="143.0" promptText="Age">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <ComboBox fx:id="gender" layoutX="138.0" layoutY="176.0" prefWidth="172.0" promptText="Gender" />
+      <Button alignment="CENTER" layoutX="134.0" layoutY="301.0" mnemonicParsing="false" onAction="#getFieldValues" text="Register" textAlignment="CENTER">
+         <font>
+            <Font size="14.0" />
+         </font>
+         <padding>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </padding>
+      </Button>
+      <TextField fx:id="city" layoutX="138.0" layoutY="218.0" promptText="City">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="state" layoutX="138.0" layoutY="251.0" promptText="State">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <Label fx:id="status" layoutX="59.0" layoutY="14.0" prefHeight="2.0" prefWidth="184.0" textFill="#eb2020">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Button fx:id="animal" alignment="CENTER" layoutX="232.0" layoutY="301.0" mnemonicParsing="false" onAction="#goToAnimalList" text="Animal List" textAlignment="CENTER">
+         <font>
+            <Font size="14.0" />
+         </font>
+         <padding>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </padding>
+      </Button>
+   </children>
+   <padding>
+      <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+   </padding>
+</Pane>
